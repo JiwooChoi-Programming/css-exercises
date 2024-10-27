@@ -1,0 +1,20 @@
+.numbah1,
+.numbah5 {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numbah2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.numbah3 {
+    font-size: 24px;
+}
+
+#numbah4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
